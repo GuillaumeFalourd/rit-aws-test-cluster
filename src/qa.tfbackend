@@ -1,0 +1,4 @@
+
+region = "sa-east-1"
+bucket = "rit-aws-test-cluster"
+key    = "terraform.tfstate"
